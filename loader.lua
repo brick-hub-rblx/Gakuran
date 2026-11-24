@@ -1,7 +1,7 @@
 getgenv().__brick_loader_cfg = {
     api_url = "http://2.59.58.83:25012",
     script_slug = "gakuran",
-    loader_url = "https://raw.githubusercontent.com/brick-hub-rblx/GAKURAN/main/loader.lua",
+    loader_url = "https://raw.githubusercontent.com/brick-hub-rblx/Gakuran/refs/heads/main/loader.lua",
 }
 local brick_key = (function()
 local genv = getgenv and getgenv() or _G
